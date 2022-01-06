@@ -1,3 +1,3 @@
 # BI-Project
 
-This is an simulation using data from mockaroo.com
+This is a simulation of data analisys with Power BI using mock data from mockaroo.com and a list of restaurants of New York for a future food delivery business.
